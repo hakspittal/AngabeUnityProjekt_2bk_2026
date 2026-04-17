@@ -287,7 +287,7 @@ Einbindung:
 * [ ] Unity Projekt ist in Ordner `UnityProjekt_GruppenName` (Gruppenname anpassen!)
 * [ ] Spiel ist spielbar
 * [ ] 2D-Spiel umgesetzt
-* [ ] beide Schüler haben Code geschrieben
+* [ ] alle Schüler des Teams haben Code geschrieben
 * [ ] eigene Grafiken verwendet
 * [ ] mindestens 2 Szenen
 * [ ] keine Scene-Konflikte (GitHub!)
