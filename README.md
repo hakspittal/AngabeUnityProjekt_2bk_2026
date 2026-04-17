@@ -3,7 +3,7 @@
 
 ## 📌 Projektüberblick
 
-Ihr entwickelt in 2er-Teams ein **2D-Spiel mit Unity**.
+Ihr entwickelt in 2er oder 3er-Teams ein **2D-Spiel mit Unity**.
 
 Ziel ist ein spielbares Game mit eigener Grafik, funktionierendem Gameplay und sauberer Teamarbeit über GitHub.
 
@@ -71,7 +71,7 @@ Beispiele für Aufgabenbereiche:
 * eigener Code
 * eigene Grafiken
 
-## 🧑‍🎓 Schüler B
+## 🧑‍🎓 Schüler B (bzw. eventuell Schüler C)
 
 * eigener Gameplay-Bereich
 * eigener Code
@@ -164,6 +164,7 @@ Euer Projekt muss enthalten:
 ## Team
 - Schüler A
 - Schüler B
+- (Schüler C)
 
 ## Kurzbeschreibung
 [2–3 Sätze]
