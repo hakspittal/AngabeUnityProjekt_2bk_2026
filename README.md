@@ -248,7 +248,7 @@ Euer Projekt muss enthalten:
 Einbindung:
 
 ```markdown
-![[assets/bild.png]]
+![](./assets/bild.png)
 ```
 
 
